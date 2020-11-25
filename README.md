@@ -4,7 +4,7 @@ info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
 # Proyectos de Python Analytics [Python]
-Encontrará los candidatos a los proyectos de Python Analytics en el notebook "proyectos" que se encuentra en este repositorio.\
+Encontrará los candidatos a los proyectos de Python Analytics en el notebook "proyectos" que se encuentra en este repositorio.
 
 [Notebook de proyectos](https://github.com/InoveAlumnos/proyecto_analytics_python/blob/main/proyectos.ipynb)
 
